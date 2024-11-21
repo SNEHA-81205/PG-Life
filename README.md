@@ -4,7 +4,7 @@ PG Life is a Full-Stack Web Application. This is a project that I was assigned t
 This web app is hosted online at:- 
 Tech Stack:- HTML, CSS, Bootstrap 5, Javascript, AJAX, PHP, MySQL.
 
-Home Page:
+***Home Page:
 ![Screenshot (624)](https://github.com/user-attachments/assets/42c91c10-55bc-40eb-bd54-05073a8ef5ae)
 ![Screenshot (625)](https://github.com/user-attachments/assets/ab70da23-8d3c-444d-9c47-c9800e0c5bc0)
 
